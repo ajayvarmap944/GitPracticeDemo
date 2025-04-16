@@ -1,2 +1,6 @@
 Here Demo2 file is available to check
+<<<<<<< HEAD
 Here We discussing about present situation
+=======
+Here We discussing about present situation
+>>>>>>> f3f0d4c047159bb0dcd4fc6828f98a8627ca1ff5
